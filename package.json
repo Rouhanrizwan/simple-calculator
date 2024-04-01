@@ -1,6 +1,6 @@
  {
    
-"name": "rouhan5simple-calculator",
+"name": "saroosh1-simple-calculator",
 "version": "1.0.0", 
   "description": "A simple calculator with typescript, Node.js and inquirer",
   "main": "index.js",
@@ -9,7 +9,7 @@
   "scripts":   {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "rouhan rizwan",
+  "author": "saroosh rizwan",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.16"
